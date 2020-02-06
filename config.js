@@ -8,7 +8,7 @@ const config = {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
 		"title": "Omaze Developer Docs",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"githubUrl": "https://github.com/RiChrisMurphy/gatsby-test",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
