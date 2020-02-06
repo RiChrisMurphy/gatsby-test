@@ -1,8 +1,8 @@
-# gatsby-gitbook-starter
+# omaze-public-docs
 
 Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
 
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
+![omaze-public-docs](https://graphql-engine-cdn.hasura.io/learn-hasura/omaze-public-docs/assets/documentation_app_blog.png)
 
 ## Motivation
 
@@ -32,7 +32,7 @@ Here's a [live demo](https://learn.hasura.io/graphql/react)
 Get started by running the following commands:
 
 ```
-$ git clone git@github.com:hasura/gatsby-gitbook-starter.git
+$ git clone git@github.com:hasura/omaze-public-docs.git
 $ npm install
 $ npm start
 ```
@@ -45,7 +45,7 @@ Write markdown files in `content` folder.
 
 Open `config.js` for templating variables. Broadly configuration is available for `gatsby`, `header`, `sidebar` and `siteMetadata`.
 
-- `gatsby` config for global configuration like 
+- `gatsby` config for global configuration like
     - `pathPrefix` - Gatsby Path Prefix
     - `siteUrl` - Gatsby Site URL
     - `gaTrackingId` - Google Analytics Tracking ID
@@ -140,5 +140,4 @@ Canonical URLs are generated automatically.
 
 ## ☁️ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hasura/gatsby-gitbook-starter)
-
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hasura/omaze-public-docs)
