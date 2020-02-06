@@ -1,9 +1,10 @@
 ---
-title: "Omaze Public API"
+title: "Authentication"
+metaTitle: "Authentication"
+metaDescription: "How to authenticate with Omaze Public API"
 ---
 
-# Heading H1
-Heading 1 text
+Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
 
 # Heading H1
 Heading 1 text
