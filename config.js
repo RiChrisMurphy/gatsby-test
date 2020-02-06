@@ -7,7 +7,7 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Omaze Developer Docs",
+		"title": "Omaze Public Api Docs",
 		"githubUrl": "https://github.com/RiChrisMurphy/gatsby-test",
 		"helpUrl": "",
 		"tweetText": "",
@@ -25,7 +25,9 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+				"/codeblock",
+				"/authentication",
+				"/changelog"
 		],
     	"collapsedNav": [
       		"/codeblock"
@@ -38,8 +40,8 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Omaze Developer Docs",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Omaze Public Api Docs",
+		"description": "Documentation built with mdx. Powering public_api.prd.omaze.com ",
 		"ogImage": null,
 		"docsLocation": "https://github.com/RiChrisMurphy/gatsby-test/tree/master/content",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
