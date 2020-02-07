@@ -5,9 +5,9 @@ const config = {
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
+		"logo": "https://seeklogo.com/images/O/omaze-logo-29F9935C59-seeklogo.com.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Omaze Public Api Docs",
+		"title": "Dev",
 		"githubUrl": "https://github.com/RiChrisMurphy/gatsby-test",
 		"helpUrl": "",
 		"tweetText": "",
@@ -40,11 +40,11 @@ const config = {
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Omaze Public Api Docs",
+		"title": "Dev",
 		"description": "Documentation built with mdx. Powering public_api.prd.omaze.com ",
 		"ogImage": null,
 		"docsLocation": "https://github.com/RiChrisMurphy/gatsby-test/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"favicon": "https://seeklogo.com/images/O/omaze-logo-29F9935C59-seeklogo.com.png"
 	},
 	"pwa": {
 		"enabled": false, // disabling this will also remove the existing service worker.
