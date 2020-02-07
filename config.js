@@ -30,7 +30,8 @@ const config = {
 				"/changelog"
 		],
     	"collapsedNav": [
-      		"/codeblock"
+					"/codeblock",
+					"/changelog"
     	],
 		"links": [
 			{ "text": "Omaze", "link": "https://www.omaze.com"},
