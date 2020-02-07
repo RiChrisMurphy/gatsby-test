@@ -16,6 +16,7 @@ Kick off your project with this starter to create a powerful/flexible docs/tutor
 - Fully customisable
 - Rich embeds and live code editor using MDX
 - Easy deployment: Deploy on Netlify / Now.sh / Docker
+- Ability to add custom components in to be used in markdown (see src/components/mdxComponents)
 
 ## 🚀 Quickstart
 
